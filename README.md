@@ -1,2 +1,2 @@
-# Fundamentos-del-Procesamiento-Digital-de-Imagenes
+# Fundamentos-de-Procesamiento-Digital-de-Imagenes
 FPDI
